@@ -1,0 +1,129 @@
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 35px;
+}
+
+h2 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 28px;
+}
+
+h3 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 20px;
+}
+
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    font-size: 15px;
+}
+
+article.box {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+p.panel {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    min-height: 70px;
+    min-width: 140px;
+}
+
+article.colours p.zero {
+    background: rgb(48,87,225);
+    text-align: center;
+    margin: 10px;
+    border: 10px;
+    padding: 10px;
+    width: 125px;
+    height: 50px;
+}
+
+article.colours p.one {
+    background: rgb(74,109,229);
+    text-align: center;
+    margin: 10px;
+    border: 10px;
+    padding: 10px;
+    width: 125px;
+    height: 50px;
+}
+
+article.colours p.two {
+    background: rgb(206,216,247);
+    text-align: center;
+    margin: 10px;
+    border: 10px;
+    padding: 10px;
+    width: 125px;
+    height: 50px;
+}
+
+article.colours p.three {
+    background: rgb(0,32,130);
+    color: white;
+    text-align: center;
+    margin: 10px;
+    border: 10px;
+    padding: 10px;
+    width: 125px;
+    height: 50px;
+}
+
+article.colours p.four{
+    background: rgb(0,0,0);
+    color: white;
+    text-align: center;
+    margin: 10px;
+    border: 10px;
+    padding: 10px;
+    width: 125px;
+    height: 50px;
+}
+
+article.colours p.five{
+    background: rgb(255,255,255);
+    color: black;
+    text-align: center;
+    margin: 10px;
+    border: 10px;
+    padding: 10px;
+    width: 125px;
+    height: 50px;
+}
+
+article.colours p.six {
+    background: rgb(179,179,179);
+    color: black;
+    text-align: center;
+    margin: 10px;
+    border: 10px;
+    padding: 10px;
+    width: 125px;
+    height: 50px;
+}
+
+article.colours p.seven {
+    background: rgb(255,255,0);
+    color: black;
+    text-align: center;
+    margin: 10px;
+    border: 10px;
+    padding: 10px;
+    width: 125px;
+    height: 50px;
+}
+
+.BG {
+    max-width: 250px;
+    height: auto;
+    padding: 2px;
+    display: inline-block;
+    
+    
+}
