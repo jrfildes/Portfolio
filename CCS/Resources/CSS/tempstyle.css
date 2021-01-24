@@ -1,0 +1,45 @@
+body, html {
+    height: 100%;
+}
+
+
+.bg {
+/* The image used */
+    background-image: url("Media/yummos.jpeg");
+    background-color: black;
+
+/* Full height */
+    height: 100%;
+
+/* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div.container {
+    height: 10em;
+    position: relative
+}
+
+
+div.container h1 {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+
+}
+
+.copyright {
+    color: whitesmoke;
+    opacity: .5;
+    position:absolute;
+    bottom:0;
+    right:8px;
+}
+
+
